@@ -1,6 +1,6 @@
 ## Discriminate Similar Languages  
 ### Overview
-This repository reuses code from Huggingface transformers with minor changes to transformers/data/processors/glue.py and /transformers/data/metrics/\_\_init__.py for training BERT classifier. It also contains a self-implemented script (DSL_svm.py) for training SVM classifier. 
+This repository reuses code from Huggingface transformers with minor changes to transformers/data/processors/glue.py and /transformers/data/metrics/\_\_init__.py for training BERT classifier. It also contains a self-implemented script (dsl_svm.py) for training SVM classifier. 
 
 ### Data
 The experiments are trained and evaluated on  [DSLCC v4.0](http://ttg.uni-saarland.de/resources/DSLCC/)
