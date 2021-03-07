@@ -7,7 +7,7 @@ The experiments are trained and evaluated on  [DSLCC v4.0](http://ttg.uni-saarla
 
 ### Train and evaluate with SVM
 ```
-python3 DSL_svm.py
+python3 dsl_svm.py
 ```
 This will result in a 0.8845116836428999 accuracy.
 
